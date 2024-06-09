@@ -25,6 +25,8 @@ API ligada a um modelo de Inteligência Artificial que faz o processamento de im
 
 # :mag: Testando Requisição - Preview
 
+**Descrição:** Na imagem abaixo é inserida no campo "url" uma url de uma imagem aleatória da internet, após enviada a requisição temos como resposta a descrição da imagem em questão. Description: "A man sitting in a chair with a computer".
+
 <img align="right" src="https://github.com/carlossilvacosta/image-to-text-back-IAA/blob/main/assets/requisicao-postman.jpeg"/>
 
 ...
